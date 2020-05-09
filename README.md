@@ -1,4 +1,4 @@
-# Bokeh Python data vizualization library demo #
+# Bokeh Python Data Vizualization Library Demo #
 
 The goal of this project is to demostrate main features and functionality available for users of Bokeh visualization library.
 
