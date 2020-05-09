@@ -13,4 +13,4 @@ For this project I have found a relatively small dataset on world's socio-econom
 Data Analysis for the current project is quite basic. It includes some minimal EDA and cleaning. A corresponding [EDA Notebook](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/EDA.ipynb) is available in the project's repo.
 
 ### Simple Visualizations ###
-This is the Part 1 of this project. It includes Bokeh basics and serves as a base for a corresponding Medium publication ["Top 5 Simple Techniques for data Visualization Using Bokeh"](). The notebook [SImple Visualizations](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/Simple%20Visualizations.ipynb) available from the project's repository is an extended and detailed version for the article. 
+This is the Part 1 of this project. It includes Bokeh basics and serves as a base for a corresponding Medium publication ["Top 5 Simple Techniques for Data Visualization Using Bokeh"](). The notebook [SImple Visualizations](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/Simple%20Visualizations.ipynb) available from the project's repository is an extended and detailed version for the article. 
