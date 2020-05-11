@@ -1,4 +1,4 @@
-# Bokeh Python data vizualization library demo #
+# Bokeh Python Data Vizualization Library Demo #
 
 The goal of this project is to demostrate main features and functionality available for users of Bokeh visualization library.
 
@@ -13,4 +13,4 @@ For this project I have found a relatively small dataset on world's socio-econom
 Data Analysis for the current project is quite basic. It includes some minimal EDA and cleaning. A corresponding [EDA Notebook](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/EDA.ipynb) is available in the project's repo.
 
 ### Simple Visualizations ###
-This is the Part 1 of this project. It includes Bokeh basics and serves as a base for a corresponding Medium publication ["Top 5 Simple Techniques for data Visualization Using Bokeh"](). The notebook [SImple Visualizations](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/Simple%20Visualizations.ipynb) available from the project's repository is an extended and detailed version for the article. 
+This is the Part 1 of this project. It includes Bokeh basics and serves as a base for a corresponding Medium publication ["Top 5 Simple Techniques for Data Visualization Using Bokeh"](https://medium.com/@aperol/top-5-simple-techniques-for-data-visualization-using-bokeh-a7fa4e05d6e6?source=friends_link&sk=30991d1ad9341415d981895489b01fc7). The notebook [Simple Visualizations](https://github.com/ikviatkovski/bokeh_demo/blob/master/Code/Simple%20Visualizations.ipynb) available from the project's repository is an extended and detailed version for the article. 
